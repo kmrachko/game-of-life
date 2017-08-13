@@ -1,0 +1,14 @@
+.game-controls {
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.game-controls div {
+  margin: 10px;
+}
+.game-controls button, .game-controls select {
+  margin: 5px;
+  font-size: 20px;
+}

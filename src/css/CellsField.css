@@ -1,0 +1,8 @@
+.cells-field {
+  width: 80%;
+}
+.cells-field-row {
+  display: flex;
+  align-items: stretch;
+  width: 100%;
+}
